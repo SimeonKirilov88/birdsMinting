@@ -368,7 +368,7 @@ const App = () => {
               </ul>
 
               <Button variant='primary' onClick={() =>mint(mintNum)}>Mint a SupBird</Button>
-               {/*  <Button variant='primary' onClick={() =>withdraw()}>Mint a SupBird</Button>   */}
+               <Button variant='primary' onClick={() =>withdraw()}>Mint a SupBird</Button>   
 
 
               </StyledWrapper>
